@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <language>ru</language>
+        <title>Lenta.ru</title>
+        <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+        <link>https://lenta.ru</link>
+        <image>
+            <url>https://lenta.ru/images/small_logo.png</url>
+            <title>Lenta.ru</title>
+            <link>https://lenta.ru</link>
+            <width>134</width>
+            <height>22</height>
+        </image>
+        <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss/top7"/>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/otnosheniya-ssha-i-evropy-pod-ugrozoy-iz-za-kryma-pochemu-priznanie-poluostrova-rossiyskim-budet-katastrofoy-dlya-es/</guid>
+            <author>Варвара Кошечкина</author>
+            <title>«Это погубит единство ЕС». Европа боится признания Крыма российским и пытается отговорить США</title>
+            <link>https://lenta.ru/news/2025/04/24/otnosheniya-ssha-i-evropy-pod-ugrozoy-iz-za-kryma-pochemu-priznanie-poluostrova-rossiyskim-budet-katastrofoy-dlya-es/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:45:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424102638350/pic_6ffc0783ff692ed881c8bf2c60341268.jpg" type="image/jpeg" length="37913"/>
+            <category>Мир</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/broneavtomobil-na-skorosti-sbil-rebenka-v-stolitse-rossiyskogo-regiona/</guid>
+            <author>Марк Леонов</author>
+            <title>Бронеавтомобиль на скорости сбил ребенка в столице российского региона</title>
+            <link>https://lenta.ru/news/2025/04/24/broneavtomobil-na-skorosti-sbil-rebenka-v-stolitse-rossiyskogo-regiona/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 11:09:10 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/11/20250424110725840/pic_548e38a5d50d6157b2ecc754d9bc864b.jpg" type="image/jpeg" length="15034"/>
+            <category>Россия</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/britaniya-popytalas-ugovorit-ukrainu-prinyat-pre/</guid>
+            <author>Дарья Устьянцева</author>
+            <title>Раскрыты предложения Британии Украине на встрече в Лондоне</title>
+            <link>https://lenta.ru/news/2025/04/24/britaniya-popytalas-ugovorit-ukrainu-prinyat-pre/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 11:06:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/11/20250424110612891/pic_90c23d04a6eb0da006a12da554ec4c04.jpg" type="image/jpeg" length="41463"/>
+            <category>Мир</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/na-ukraine-rasskazali-o-korruptsionnoy-sheme-komandirov-vsu/</guid>
+            <author>Анастасия Дубова</author>
+            <title>На Украине рассказали о коррупционной схеме командиров ВСУ</title>
+            <link>https://lenta.ru/news/2025/04/24/na-ukraine-rasskazali-o-korruptsionnoy-sheme-komandirov-vsu/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 11:06:03 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424101851827/pic_deb8cca41536021b086c34e45227c5ea.jpg" type="image/jpeg" length="23122"/>
+            <category>Бывший СССР</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/dadut/</guid>
+            <author>Платон Щукин</author>
+            <title>В Госдуме рассказали о досрочных выплатах за май</title>
+            <link>https://lenta.ru/news/2025/04/24/dadut/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 11:04:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/11/20250424110410936/pic_15118b616637100d8fb44f76dc39f1f5.jpg" type="image/jpeg" length="20371"/>
+            <category>Экономика</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/stalo-izvestno-o-massirovannom-udare-po-harkovu/</guid>
+            <author>Глеб Палехов</author>
+            <title>Стало известно о массированном ударе по Харькову</title>
+            <link>https://lenta.ru/news/2025/04/24/stalo-izvestno-o-massirovannom-udare-po-harkovu/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 11:01:40 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424105713715/pic_39c0f0c60140c1a5596f42f41b465465.jpg" type="image/jpeg" length="25860"/>
+            <category>Бывший СССР</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/dvoe-rossiyan-ugodili-v-politsiyu-v-tailande-za-odno-narushenie/</guid>
+            <author>Мария Борисова</author>
+            <title>Двое россиян угодили в полицию в Таиланде за одно нарушение</title>
+            <link>https://lenta.ru/news/2025/04/24/dvoe-rossiyan-ugodili-v-politsiyu-v-tailande-za-odno-narushenie/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 11:03:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424105320931/pic_833b78b2bd20e74a0c20fa10c6256f77.jpg" type="image/jpeg" length="23834"/>
+            <category>Путешествия</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/tokaev-rasskazal-o-zarubezhnyh-provokatsiyah-protiv-mnogoyazychiya-v-kazahstane/</guid>
+            <author>Глеб Палехов</author>
+            <title>Токаев рассказал о зарубежных провокациях против многоязычия в Казахстане</title>
+            <link>https://lenta.ru/news/2025/04/24/tokaev-rasskazal-o-zarubezhnyh-provokatsiyah-protiv-mnogoyazychiya-v-kazahstane/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:58:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424105405627/pic_bf50f0a76b335b7f7d25e94742c3339f.jpg" type="image/jpeg" length="18718"/>
+            <category>Бывший СССР</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/u-edity-piehi-obnaruzhili-priznaki-dementsii/</guid>
+            <author>Варвара Кошечкина</author>
+            <title>У Эдиты Пьехи обнаружили признаки деменции</title>
+            <link>https://lenta.ru/news/2025/04/24/u-edity-piehi-obnaruzhili-priznaki-dementsii/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:57:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424100616353/pic_bb3f35fd68c1ce4895ca7f821ed66dce.jpg" type="image/jpeg" length="21536"/>
+            <category>Культура</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/stalo-izvestno-esche-ob-odnom-planirovavshemsya-po-ukazu-inostrannyh-spetssluzhb-terakte/</guid>
+            <author>Анна Габай</author>
+            <title>Стало известно еще об одном планировавшемся по указу иностранных спецслужб теракте</title>
+            <link>https://lenta.ru/news/2025/04/24/stalo-izvestno-esche-ob-odnom-planirovavshemsya-po-ukazu-inostrannyh-spetssluzhb-terakte/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:52:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424105203556/pic_a07e7b282d26c86696dae354483991ab.jpg" type="image/jpeg" length="29879"/>
+            <category>Силовые структуры</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/zagitova-snyalas-v-krasnyh-mini-shortah-v-parizhe/</guid>
+            <author>Дарья Коршунова</author>
+            <title>Загитова снялась в красных мини-шортах в Париже</title>
+            <link>https://lenta.ru/news/2025/04/24/zagitova-snyalas-v-krasnyh-mini-shortah-v-parizhe/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:44:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424104418648/pic_8062a4ee09078ed8caa530a423128a29.jpg" type="image/jpeg" length="18580"/>
+            <category>Спорт</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/doch-dzhuda-lou-snyalas-toples/</guid>
+            <author>Карина Черных</author>
+            <title>Дочь Джуда Лоу снялась с обнаженной грудью</title>
+            <link>https://lenta.ru/news/2025/04/24/doch-dzhuda-lou-snyalas-toples/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:44:06 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/23/11/20250423111345974/pic_c5b084b0822145bd0305dad3b0663bd3.jpg" type="image/jpeg" length="46006"/>
+            <category>Ценности</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/zelenskiy-uletel-s-zhenoy-v-afriku/</guid>
+            <author>Екатерина Грищенко</author>
+            <title>Зеленский улетел с женой в Африку</title>
+            <link>https://lenta.ru/news/2025/04/24/zelenskiy-uletel-s-zhenoy-v-afriku/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:39:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/10/20250424103827753/pic_360b9a88d5c232720dd8bafce0502d6f.jpg" type="image/jpeg" length="33388"/>
+            <category>Бывший СССР</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/inostrannyy-samolet-ob-yavil-signal-srochnosti-v-nebe-nad-rossiey/</guid>
+            <author>Мария Борисова</author>
+            <title>Иностранный самолет объявил сигнал срочности в небе над Россией</title>
+            <link>https://lenta.ru/news/2025/04/24/inostrannyy-samolet-ob-yavil-signal-srochnosti-v-nebe-nad-rossiey/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 10:27:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/24/09/20250424093048779/pic_ab7448163956df6173128dcddd3f4ea8.jpg" type="image/jpeg" length="9738"/>
+            <category>Путешествия</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/v-ssha-rossiyskiy-tu-160-opisali-odnim-slovom/</guid>
+            <author>Иван Потапов</author>
+            <title>В США российский Ту-160 описали одним словом</title>
+            <link>https://lenta.ru/news/2025/04/24/v-ssha-rossiyskiy-tu-160-opisali-odnim-slovom/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 09:04:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/23/10/20250423103034979/pic_469c8856151b6beb9dd6abc62f00e7b4.jpg" type="image/jpeg" length="7210"/>
+            <category>Наука и техника</category>
+        </item>
+        <item>
+            <guid>https://lenta.ru/news/2025/04/24/raskryta-normalnaya-prodolzhitelnost-polovogo-akta/</guid>
+            <author>Илья Пятыго</author>
+            <title>Раскрыта нормальная продолжительность полового акта</title>
+            <link>https://lenta.ru/news/2025/04/24/raskryta-normalnaya-prodolzhitelnost-polovogo-akta/</link>
+            <description>
+                <![CDATA[]]>
+            </description>
+            <pubDate>Thu, 24 Apr 2025 08:33:00 +0300</pubDate>
+            <enclosure url="https://icdn.lenta.ru/images/2025/04/23/12/20250423121637325/pic_f5e75c73c6015f90d82cf47a1521cb28.jpg" type="image/jpeg" length="32688"/>
+            <category>Забота о себе</category>
+        </item>
+    </channel>
+</rss>
